@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/Blueprints/Door/BP_Door.uasset",
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/Blueprints/Next_Door/Next_Door.uasset",
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
+				"C:/Users/dane7/Desktop/CS/CS46X/escape-room-main/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/TimesUpMessage.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/Key/M_Worn_Key.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/Key/T_Worn_Key.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/Key/Worn_Key.uasset",
+				"C:/Users/riley/OneDrive/Desktop/Repositories/escape-room/Content/HUD.uasset",
+				"C:/Users/Sean/Desktop/MyRepos/OSU/CS46X/escape-room/Content/HUD.uasset",
+				"C:/Users/Sean/Desktop/MyRepos/OSU/CS46X/escape-room/Content/Inventory.uasset",
+				"C:/Users/Sean/Desktop/MyRepos/OSU/CS46X/escape-room/Content/Timer.uasset",
+				"C:/Users/Sean/Desktop/MyRepos/OSU/CS46X/escape-room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/School Projects/escape-room/Content/OpenBasic.umap",
+				"D:/School Projects/escape-room/Content/Stylized_Egypt/Maps/Stylized_Egypt_Demo.umap",
+				"C:/Users/Matt/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
